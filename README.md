@@ -38,5 +38,5 @@ To run the application, you need the following tools installed on your machine:
 ### Setup Instructions
 
 1. **Clone the repository**:
-2. **"Run DB Migrations using `update-database`"**
-3. **"Run the application"**
+2. **Run DB Migrations using `update-database`**
+3. **Run the application**
